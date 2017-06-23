@@ -1,10 +1,11 @@
 # Playful-Worlds-Obstacle-Course
 An Obstacle Course made by Ronald van Egdom.
 
-# Assets / Libraries used:
+# Play instructions
+A working playable build can be found in the Game Build folder.
 
+# Assets / Libraries used
 Volumetric Lights:
-
 	https://github.com/SlightlyMad/VolumetricLight/
 	
 Skyboxes:
